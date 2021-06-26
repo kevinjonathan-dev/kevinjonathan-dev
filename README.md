@@ -1,3 +1,5 @@
+![](https://i.redd.it/u7a3oy7hqoly.jpg 'Henlo')
+
 # Henlo Fren, I'm Kevin Jonathan
 But they call me Joe, because hey, maybe I'm the average Joe after all
 
