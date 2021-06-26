@@ -1,7 +1,7 @@
-![](https://i.redd.it/u7a3oy7hqoly.jpg 'Henlo')
+![](https://i.redd.it/mc333pkb60541.jpg 'Henlo')
 
-# Henlo Fren, I'm Kevin Jonathan
-But they call me Joe, because hey, maybe I'm the average Joe after all
+# Henlo Fren, I'm Joe
+My real name is Kevin Jonathan, but they call me Joe, because hey, maybe I'm the *Average Joe* after all lmao \*sobs\*sobs
 
 ![](https://komarev.com/ghpvc/?username=kevinjonathan911)
 
