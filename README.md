@@ -16,7 +16,7 @@ While running my own business, I am also working fulltime as a Javascript Engine
 This job gave me really interesting insights about the psychology and science of human-software interaction, which I learned and applied in my career.
 
 
-# My Story
+# How I Got into Tech
 
 Inside of my small 8-year-old body was a huge tech geekery, to begin with. Coming to existence just at the apt window for its wonders, my fondness for computers was inevitable.
 
