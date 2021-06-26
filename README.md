@@ -15,8 +15,11 @@ While running my own business, I am also working fulltime as a Javascript Engine
 
 This job gave me interesting insights about the psychology and science of human-software interaction, which I learned and applied in my career.
 
+
+
 # Background
 I got my Bachelor's Degree in Computer Science from [Gadjah Mada University](https://www.ugm.ac.id/en), the best university in Indonesia according to [4ICU](https://www.ugm.ac.id/en/news/20787-4icu-2021-ugm-best-university-in-indonesia).
+
 
 
 # How I Got into Tech
