@@ -28,8 +28,12 @@ While running my own business, I am also working fulltime as a Javascript Engine
 - **Javascript** - made me fell in love with software engineering. I'm a Javascript activist, actively supporting the *Everything Javascript* movement
 - **Node** - is what made JS so awesome and capable of anything. I can't stress enough how revolutionary Node is in software engineering
 - **React** - okay, you love JS. Do you do front-end development? Okay, you're definitely a React fan
-- **SCSS** - we need some *Sass* to use *CSS*, you know? (pun intended)
-- 
+- **TailwindCSS** - stop repeating your styles. What's better than long lines of inline styles?
+- **SCSS** - we need to get *Sassy* to use *CSS* eloquently, you know? (pun intended)
+- **Firebase** - haha instant back-end go brrrr
+- **Vercel** - hosting but it's free real estate
+- **Gatsby** - create-react-app but better
+- **NextJS** - Gatsby but dynamic
 
 
 # How I Got into Tech
