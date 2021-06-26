@@ -1,4 +1,5 @@
-### Hi there 👋
+### Henlo Fren, I'm Kevin Jonathan
+But they call me Joe, because hey, maybe I'm the average Joe after all
 
 ![](https://komarev.com/ghpvc/?username=kevinjonathan911)
 
