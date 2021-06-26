@@ -5,7 +5,7 @@ But they call me Joe, because hey, maybe I'm the average Joe after all
 
 # What I Do
 ## Jojobug
-I founded ![Jojobug](https://jojobug.com), a software development company providing state-of-the-art digital products (but mostly websites). In Jojobug, I do most of the things myself: UI/UX Design, Front-end, Back-end, Dev-Ops, and Testing. Jojobug began as my portfolio website for me to promote myself as a freelance developer, but it has grown into a company, registered in Singapore under Jojobug Tech Pte. Ltd. Funny to look back and see how that one small initiative has come a long way.
+I founded [Jojobug](https://jojobug.com), a software development company providing state-of-the-art digital products (but mostly websites). In Jojobug, I do most of the things myself: UI/UX Design, Front-end, Back-end, Dev-Ops, and Testing. Jojobug began as my portfolio website for me to promote myself as a freelance developer, but it has grown into a company, registered in Singapore under Jojobug Tech Pte. Ltd. Funny to look back and see how that one small initiative has come a long way.
 
 ## Rabbi Interactive
 While running my own business, I am also working fulltime as a Javascript Engineer in an Israeli/Ukrainian company called Rabbi Interactive. As it's name suggests, we create cool interactive software here, specializing in apps that provides an interface for humans to interact with. This job gave me really interesting insights about the psychology and science of human-software interaction, which I applied in my personal projects.
