@@ -1,8 +1,9 @@
+<div align='center'>
 ![](https://i.redd.it/mc333pkb60541.jpg 'Henlo')
 
 <h1 align='center'>Henlo Fren, I'm Joe</h1>
 <img src="https://komarev.com/ghpvc/?username=kevinjonathan911" align='center' alt="Click to see the source">
-
+</div>
 My name is Kevin Jonathan, but they call me Joe because hey, maybe I'm the *Average Joe* after all haha \*sobs\* \*sobs\*
 
 
