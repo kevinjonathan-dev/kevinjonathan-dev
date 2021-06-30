@@ -13,7 +13,7 @@
 
 <h1 align='center'>About</h1>
 
-A software engineer, designer, and a hacker-wannabe. 
+A software engineer, designer, and beginner cybersecurity analyst (I'm trying ok).
 
 I design them myself and code them to production in full-stack Javascript (and Typescipt):
 - Websites
@@ -65,14 +65,14 @@ During high school, I qualified for the province-level national olympiad in info
 One evening in my dusty dorm room, I started a simple initiative that has come a long way, paving most of my career paths to date: a web development project just for fun. Back then, as I was working in a web hosting company, I received a free web server as a benefit. This co-occurrence created Jojobug.com, my first portfolio site. From then onwards, I began providing freelance web development services.
 
 Now that I'm sure this field was meant for me, I envision myself in the next ten years as someone who would dedicate the rest of his life to shape this giant cloud, in the likes of Linus Torvalds, or the more recent Evan You.
-
+<!--
 <h1 align='center'>Background</h1>
 
 I grew up in Batam, a small island-city in Indonesia 30 minutes away from Singapore. I got my Bachelor's Degree in Computer Science from [Gadjah Mada University](https://www.ugm.ac.id/en), the best university in Indonesia according to [4ICU](https://www.ugm.ac.id/en/news/20787-4icu-2021-ugm-best-university-in-indonesia). Since my childhood, I've always been interested in computers and arts, which is probably why I end up being a software engineer and a designer.
 
 I started my career as an Android Rom Developer in [XDA Developers](https://www.xda-developers.com/the-most-popular-custom-roms-on-xda/), creating and reviewing custom Roms for various Android Phones. I participated in several high profile projects that Rom enthusiasts would know: [Cyanogenmod (now LineageOS)](https://lineageos.org/), [Ressurection Remix](https://resurrectionremix.com/), and [SlimRoms](https://slimroms.org/). 
 
-After 2 years, I took a break from coding and did SEO in [Hostinger](https://www.hostinger.com/about), one of the largest hosting providers in the world now. Albeit not a coding job, it was still a tech company. Here, I learned about the marketing side of software engineering. I learned copywriting, SEO, and alot about servers. They also give a free server to every employee which I used to host Jojobug.
+After 2 years, I took a break from coding and did SEO in [Hostinger](https://www.hostinger.com/about), one of the largest hosting providers in the world now. Albeit not a coding job, it was still a tech company. Here, I learned about the marketing side of software engineering. I learned copywriting, SEO, and alot about servers. They also give a free server to every employee which I used to host Jojobug.-->
 
 
 <!--
