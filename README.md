@@ -13,10 +13,6 @@
 
 A software engineer and UI/UX designer.
 
-[![KevinJonathan911's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinjonathan911&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjonathan911)](https://github.com/anuraghazra/github-readme-stats)
-
 I design them myself and code them to production in full-stack Javascript (and Typescipt):
 - Websites
 - Web Apps
@@ -53,6 +49,11 @@ While running my own business, I am also working fulltime as a Javascript Engine
 - **[Express](https://expressjs.com/)** - back-end but it's in Javascript
 - **[Gatsby](https://www.gatsbyjs.com/)** - create-react-app but static
 - **[NextJS](https://nextjs.org/)** - Gatsby but for big serious projects
+
+
+[![KevinJonathan911's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinjonathan911&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjonathan911)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- <h1 align='center'>How I Got into Tech</h1>
