@@ -1,7 +1,7 @@
 <div align='center'>
-<img src="https://i.redd.it/mc333pkb60541.jpg" alt="henlo">
+<img src="https://i.redd.it/mc333pkb60541.jpg" width='100%' alt="henlo">
 <div>
-<img src="https://komarev.com/ghpvc/?username=kevinjonathan911" align='center' width='100% alt="profile view count">
+<img src="https://komarev.com/ghpvc/?username=kevinjonathan911" align='center' alt="profile view count">
 <h1 align='center'>Hi, I'm Kevin</h1>
   </div>
 </div>
