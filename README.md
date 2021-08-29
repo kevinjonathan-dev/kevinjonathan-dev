@@ -15,6 +15,7 @@ A software engineer and UI/UX designer.
 
 [![KevinJonathan911's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinjonathan911)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjonathan911)](https://github.com/anuraghazra/github-readme-stats)
 
 I design them myself and code them to production in full-stack Javascript (and Typescipt):
 - Websites
