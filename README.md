@@ -2,7 +2,7 @@
 <img src="https://i.redd.it/mc333pkb60541.jpg" alt="henlo">
 <div>
 <img src="https://komarev.com/ghpvc/?username=kevinjonathan911" align='center' alt="profile view count">
-<h1 align='center'>Henlo Fren, I'm Joe</h1>
+<h1 align='center'>Hi, I'm Kevin</h1>
   </div>
 </div>
 
