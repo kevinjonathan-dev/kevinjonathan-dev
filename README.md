@@ -1,42 +1,77 @@
 <div align='center'>
 <img src="https://i.redd.it/mc333pkb60541.jpg" width='100%' alt="henlo">
 <div>
-<img src="https://komarev.com/ghpvc/?username=kevinjonathan911" align='center' alt="profile view count">
-<h1 align='center'>Hi, I'm Kevin</h1>
-  </div>
+
+</div>
 </div>
 
 
 
+<img src="https://komarev.com/ghpvc/?username=kevinjonathan911" align='center' alt="profile view count">
+<h1>About</h1>
+<h3>Henlo folks, I'm Joe.</h3>
+<p>I am a full-stack software engineer and UI/UX designer. This allows me to handle the entire end-to-end development process from design, development, deployment, to maintenance. I code mostly in Javascript (or Typescript when possible) using React in the front-end and Node in the back-end. In most of my projects, I use serverless architecture with modern cloud services like Firebase and AWS.</p>
 
-<h1 align='center'>About</h1>
+I still keep on learning everyday as there are infinite things you can do with JS, especially with Node. In my freetime, I learn about hacking and cybersecurity, aiming to get an [OSCP](https://www.offensive-security.com/pwk-oscp/) certification next year. I work in an Israeli/Ukrainian agency called <a href="https://rabbi.agency/">Rabbi Interactive<a> and in the startup I founded, <a href="https://jojobug.com">Jojobug</a>.
 
-A software engineer and UI/UX designer.
-
-I design them myself and code them to production in full-stack Javascript (and Typescipt):
-- Websites
-- Web Apps
-- Mobile Apps
-- Desktop Apps
-
-And I still keep on learning everyday as there are infinite things you can do with JS, especially with Node. When I have a lot of freetime (which is hard to come by nowadays), I learn about hacking, cybersecurity, and aim to get an [OSCP](https://www.offensive-security.com/pwk-oscp/) certification next year.
-
-Currently, I am learning:
+Currently, I am learning about:
 - WebGL
 - Penetration Testing
+  
+  
+<h1>Tech Stacks I Use Regularly</h1>
 
-<h1 align='center'>My Job</h1>
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+     <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9"/>
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=orange"/>
+      <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+    <img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"/>
+  <img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white"/>
+  </div>
 
-### Jojobug
-I founded [Jojobug](https://jojobug.com), a software development company developing state-of-the-art digital products (mostly websites) with beautiful user-friendly designs. In Jojobug, I do most of the things myself: UI/UX Design, Front-end, Back-end, Dev-Ops, Copywriting, and Testing. Jojobug began as my portfolio website for me to promote myself as a freelance developer, but it has grown into a business, registered in Singapore under Jojobug Tech Pte. Ltd. Funny to look back and see how that one small initiative has come a long way.
+<h1>Jojobug</h1>
 
+I founded [Jojobug](https://jojobug.com), a software development company developing state-of-the-art digital products (mostly websites) with beautiful user-friendly designs. In Jojobug, I do most of the things myself: UI/UX Design, Front-end, Back-end, Dev-Ops, Copywriting, and Testing. Jojobug began as my portfolio website for me to promote myself as a freelance developer, but it has grown into a business, registered in Singapore under Jojobug Tech Pte. Ltd. Funny to look back and see how that one small initiative has come a long way. We have been an agency for about a year, but we will soon be a digital startup as our product is currently under development.
 
-### Rabbi Interactive
-While running my own business, I am also working fulltime as a Javascript Engineer in an Israeli/Ukrainian company called [Rabbi Interactive](https://rabbi.agency/). As it's name suggests, we create cool interactive software here, specializing in apps that provides an interface for humans to interact with. This job gave me interesting insights about the psychology and science of human-software interaction, which I learned and applied in my career. We are a small team but have huge clients worldwide. Some of the largest are: Eurovision, Rising Star, and Big Brother.
+  
+  <h1>Reach Me via</h1>
+  <a href="https://www.linkedin.com/in/kevinjonathan98/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
 
-<h1 align='center'>Stacks</h1>
+   <br/>  
+  <br/>  
+<div align="top">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align='center' height="100%" src="https://github-readme-stats.vercel.app/api?username=kevinjonathan911&hide=issues&count_private=true&theme=merko"/>
+  </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjonathan911&layout=compact&theme=merko"/>
+  </a>
+</div>
 
-- **[Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** - made me fell in love with software engineering. I'm a Javascript activist, actively supporting the *Everything Javascript* movement
+<!-- - **[Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** - made me fell in love with software engineering. I'm a Javascript activist, actively supporting the *Everything Javascript* movement
 - **[Typescript](https://www.typescriptlang.org/)** - the love child of Java and Javascript, don't you love it that now you have to explicitly declare variable types when you previously didn't?
 - **[Node](https://nodejs.org/en/)** - is what made JS so awesome and capable of anything. I can't stress enough how revolutionary Node is in software engineering
 - **[React](https://reactjs.org/)** - okay, you love JS. Do you do front-end development? Well, too bad you can't run from React
@@ -48,13 +83,7 @@ While running my own business, I am also working fulltime as a Javascript Engine
 - **[Electron](https://www.electronjs.org/)** - React but it's a desktop app
 - **[Express](https://expressjs.com/)** - back-end but it's in Javascript
 - **[Gatsby](https://www.gatsbyjs.com/)** - create-react-app but static
-- **[NextJS](https://nextjs.org/)** - Gatsby but for big serious projects
-
-
-[![KevinJonathan911's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinjonathan911&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjonathan911)](https://github.com/anuraghazra/github-readme-stats)
-
+- **[NextJS](https://nextjs.org/)** - Gatsby but for big serious projects -->
 
 <!-- <h1 align='center'>How I Got into Tech</h1>
 
