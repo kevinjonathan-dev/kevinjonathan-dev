@@ -63,10 +63,10 @@ I founded [Jojobug](https://jojobug.com), a software development company develop
   <br/>  
 <div align="top">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align='center' height="100%" src="https://github-readme-stats.vercel.app/api?username=kevinjonathan911&hide=issues&count_private=true&theme=merko"/>
+      <img align='center' height="100%" src="https://github-readme-stats.vercel.app/api?username=kevinjonathan-dev&hide=issues&count_private=true&theme=merko"/>
   </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjonathan911&layout=compact&theme=merko"/>
+      <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjonathan-dev&layout=compact&theme=merko"/>
   </a>
 </div>
 
