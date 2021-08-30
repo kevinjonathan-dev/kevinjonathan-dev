@@ -4,7 +4,7 @@
 <h1>About</h1>
 <h3>Hi folks, I'm Joe.</h3> 
 
-###### *actually it's Kevin but one day my friend decided that I'm Joe and everyone agreed under democracy*
+###### *actually it's Kevin but one day my friend decided that I'm Joe and everyone agreed under a democratic consensus*
 
 - Full-stack software engineer and UI/UX designer
 - Codes mostly in Javascript (or Typescript when possible) using React in the front-end and Node in the back-end
