@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/33756411/131356060-60e51359-8fc6-4370-96cb-ba26fc3109eb.png" width='100%' alt="henlo">
-<img src="https://komarev.com/ghpvc/?username=kevinjonathan911" width='160' align='center' alt="profile view count">
+<img src="https://komarev.com/ghpvc/?username=kevinjonathan911" width='120' align='center' alt="profile view count">
 
 <h1>About</h1>
 <h3>Hi folks, I'm Joe.</h3> 
