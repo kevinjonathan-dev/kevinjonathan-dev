@@ -6,9 +6,12 @@
 
 ###### *actually it's Kevin but one day my friend decided that I'm Joe and everyone agreed under democracy*
 
-<p>I am a full-stack software engineer and UI/UX designer. I code mostly in Javascript (or Typescript when possible) using React in the front-end and Node in the back-end and design those websites by myself. In most of my projects, I adopt a serverless architecture with modern cloud services like Firebase and AWS.</p>
-
-I still learn something new everyday as per the saying "A software engineer is a life-long student". In my freetime, I learn about hacking and cybersecurity, aiming to get an [OSCP](https://www.offensive-security.com/pwk-oscp/) certification next year. I work in an Israeli/Ukrainian agency called <a href="https://rabbi.agency/">Rabbi Interactive<a> and in the startup I founded, <a href="https://jojobug.com">Jojobug</a>.
+- Full-stack software engineer and UI/UX designer
+- Codes mostly in Javascript (or Typescript when possible) using React in the front-end and Node in the back-end
+- In most of my projects, I adopt a serverless architecture with modern cloud services like Firebase and AWS
+- Still learning something new everyday as per the saying "A software engineer is a life-long student" 
+- In my freetime, I learn about hacking and cybersecurity, aiming to get an [OSCP](https://www.offensive-security.com/pwk-oscp/) certification next year 
+- Working in an Israeli/Ukrainian agency called <a href="https://rabbi.agency/">Rabbi Interactive<a> and in the startup I founded, <a href="https://jojobug.com">Jojobug</a>.
 
 Currently, I am learning about:
 - WebGL
