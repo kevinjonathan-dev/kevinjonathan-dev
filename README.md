@@ -11,7 +11,7 @@
 - In most of my projects, I adopt a serverless architecture with modern cloud services like Firebase and AWS
 - Still learning something new everyday as per the saying "A software engineer is a life-long student" 
 - In my freetime, I learn about hacking and cybersecurity, aiming to get an [OSCP](https://www.offensive-security.com/pwk-oscp/) certification next year 
-- Working in an Israeli/Ukrainian agency called <a href="https://rabbi.agency/">Rabbi Interactive<a> and in the startup I founded, <a href="https://jojobug.com">Jojobug</a>.
+- Working in the startup I founded, <a href="https://jojobug.com">Jojobug</a>.
 
 Currently, I am learning about:
 - WebGL
