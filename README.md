@@ -1,5 +1,7 @@
-<img src="https://user-images.githubusercontent.com/33756411/131356060-60e51359-8fc6-4370-96cb-ba26fc3109eb.png" width='100%' alt="henlo">
+
+![Henlo](https://user-images.githubusercontent.com/33756411/189759817-f7b3a0de-81ff-470b-a0ec-75f0c9d8f3ab.png)
 <img src="https://komarev.com/ghpvc/?username=kevinjonathan911" width='120' align='center' alt="profile view count">
+
 
 <h1>About</h1>
 <h3>Hi folks, I'm Joe.</h3> 
