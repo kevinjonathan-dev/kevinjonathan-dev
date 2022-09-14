@@ -49,18 +49,6 @@ Currently, I am learning about:
   </div>
 
 <h1>Jojobug  <img align='center' height="40" src="https://user-images.githubusercontent.com/33756411/131354710-a86f32d4-ab48-467c-a821-caf8895ca470.png"/></h1>
-
-
-I founded [Jojobug](https://jojobug.com), a software development company developing state-of-the-art digital products (mostly websites) with beautiful user-friendly designs. In Jojobug, I do most of the things myself: UI/UX Design, Front-end, Back-end, Dev-Ops, Copywriting, and Testing. Jojobug began as my portfolio website for me to promote myself as a freelance developer, but it has grown into a business, registered in Singapore under Jojobug Tech Pte. Ltd. Funny to look back and see how that one small initiative has come a long way. We have been an agency for about a year, but we will soon be a digital startup as our product is currently under development.
-  
-Notable projects:
-- **Jojobug.com**: designed and developed all by myself, optimized the site from 8 to 96 (Lighthouse score)
--	**Internal CMS**: an internal CMS/Admin panel for my clients to manage their own website contents
--	**Real-time driver location tracking system**: for a logistic company wanting to track their drivers, consisting of a web app (for Admin) and a mobile app (for drivers)
--	**Product Scraper API**: a REST API to obtain product information from Chinese e-commerce websites matching the query and translate them to Indonesian complete with currency conversion
--	**Automatic Email Service**: a serverless e-mail service with custom HTML emails and attachment support for sending emails to mailing lists automatically on a set time
-
-
   
   <h1>Reach Me via</h1>
   <a href="https://www.linkedin.com/in/kevinjonathan98/">
