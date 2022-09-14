@@ -8,16 +8,15 @@
 
 ###### *actually it's Kevin but one day my friend decided that I'm Joe and everyone agreed under a democratic consensus*
 
-- Full-stack software engineer and UI/UX designer
-- Codes mostly in Javascript (or Typescript when possible) using React in the front-end and Node in the back-end
-- In most of my projects, I adopt a serverless architecture with modern cloud services like Firebase and AWS
-- Still learning something new everyday as per the saying "A software engineer is a life-long student" 
-- In my freetime, I learn about hacking and cybersecurity, aiming to get an [OSCP](https://www.offensive-security.com/pwk-oscp/) certification next year 
+To save your time, I'll quickly summarize myself in 6 points :
 
-Currently, I am learning about:
-- WebGL
-- Penetration Testing
-  
+- Seasoned full-stack software engineer/consultant of 5 years, Javascript-focused. Prefers to be front-end oriented, usually by utilizing a cloud platform to build web applications that scale seamlessly. Can also work on conventional back-ends when needed.
+- Have helped several companies, big and small, develop their products ranging from a cryptocurrency exchange application, a live-streaming platform, SaaS platforms, landing pages, complex data visualization dashboards, and many more – ask me about it!
+- What I do (in a nutshell): build web applications, make them look good and easy to use, function as intended, and not crash when millions of users use them. I try not to include bugs in them (when possible).
+- What I do (in a literal way): sit down, look at lines of code, google, scroll, compile, google, copy, paste, make changes, compile, google. Rinse and repeat.
+- A digital junkie, carries around my 2 laptops + keyboard + mouse everywhere, googles everything, has always worked remotely, copes with memes, and needs internet to keep breathing. 
+- Codes for: a living, fun, learning, buying things that I want, and the sake of it. 100% was born for this. Building things and trying new technologies is awesoem (yes). 
+
   
 <h1>Tech Stacks I Use Regularly</h1>
 
