@@ -51,10 +51,7 @@ Currently, I am learning about:
   <h1>Reach Me via</h1>
   <a href="https://www.linkedin.com/in/kevinjonathan98/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-    <a href="https://jojobug.com">
-  <img height="28" src="https://user-images.githubusercontent.com/33756411/131354930-d0db0428-8d29-4498-a085-352515f1f0d6.jpg"/>
-  </a>
+
 
 
 
