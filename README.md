@@ -47,8 +47,6 @@ Currently, I am learning about:
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"/>
   <img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white"/>
   </div>
-
-<h1>Jojobug  <img align='center' height="40" src="https://user-images.githubusercontent.com/33756411/131354710-a86f32d4-ab48-467c-a821-caf8895ca470.png"/></h1>
   
   <h1>Reach Me via</h1>
   <a href="https://www.linkedin.com/in/kevinjonathan98/">
